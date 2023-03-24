@@ -16,16 +16,16 @@
 
 - 👨‍💻 All of my projects are available at [https://isky27.github.io/](https://isky27.github.io/)
 
-- 💬 Ask me about **JavaScript, MERN, Redux, NextJS**
+- 💬 Ask me about **JavaScript, MERN**
 
-- 📫 How to reach me **gaganjindal50@gmail.com**
+- 📫 How to reach me **gaganjindal51@gmail.com**
 <!-- 
 - 📄 Know about me [https://drive.google.com/file/d/1TcZ5J6ragfqIMWExOZztM_xQTZu6Ud9f/view?usp=sharing](https://drive.google.com/file/d/1TcZ5J6ragfqIMWExOZztM_xQTZu6Ud9f/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
-<a href="https://linkedin.com/in/isky27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isky27" height="30" width="40" /></a>
-</p> -->
+<p align="left">
+<a href="https://linkedin.com/in/isky50" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isky50" height="30" width="40" /></a>
+</p> 
 
 
 <h3 align="center">Languages and Tools:</h3>
